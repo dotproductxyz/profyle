@@ -41,7 +41,7 @@ profyle = "profyle.main:app"
 python = ">=3.9,<4.0"
 jinja2 = "^3.1.2"
 uvicorn = ">=0.20.0"
-typer = {extras = ["all"], version = "^0.7.0"}
+typer = {extras = ["all"], version = "^0.12.0"}
 viztracer = "^0.16.0"
 fastapi = ">=0.70.0"
 pydantic-settings = "^2.0.3"
